@@ -769,6 +769,10 @@ h3.my-profession
         font-family:'Clicker Script', cursive;
         font-size:20px;
     }
+    .portfolio-img 
+    {
+        width: 200px 
+    }
 
     
 }
