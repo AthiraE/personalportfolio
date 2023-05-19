@@ -706,7 +706,7 @@ h3.my-profession
         font-weight:700;
         
         padding:15px 20px;
-        font-size: 20px;
+        font-size: 30px;
         letter-spacing: 3px;
         position:relative;
 
@@ -714,7 +714,7 @@ h3.my-profession
     .aside .logo a span
     {
         font-family:'Clicker Script', cursive;
-        font-size:20px;
+        font-size:30px;
     }
 
     .aside .logo a::before
