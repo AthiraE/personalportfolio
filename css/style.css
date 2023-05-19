@@ -645,13 +645,17 @@ h3.my-profession
     }
     .home .home-img
     {
-        display: none;
+        display: block;
     }
     .main-content
 {
-    padding-left: 270px;
+    padding-left: 250px;
     
 }
+    .aside
+    {
+    width:250px;
+    }
 }
 @media(max-width:767px)
 
@@ -668,7 +672,11 @@ h3.my-profession
     }
     .main-content
 {
-    padding-left: 270px;
+    padding-left: 200px;
     
 }
+    .aside
+     {
+        width:200px;
+    }
 }
