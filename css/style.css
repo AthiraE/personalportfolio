@@ -618,6 +618,7 @@ h3.my-profession
     .main-content
     {
         padding-left: 270;
+        max-width:1199px;
 
     }
     .about .about-content .personal-info .info-item p span
@@ -656,6 +657,7 @@ h3.my-profession
     .main-content
 {
     padding-left: 250px;
+    max-width:991px;
     
 }
     .aside
@@ -679,6 +681,7 @@ h3.my-profession
     .main-content
 {
     padding-left: 150px;
+    max-width:767px;
     
 }
     .aside
